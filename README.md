@@ -1,2 +1,3 @@
-# Java---Como-Programar
-Livro: Java - Como Programar
+# Java - Como-Programar
+Este repositório foi criado para registrar as atividades do livro *Java - Como programar*.
+
