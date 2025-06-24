@@ -23,6 +23,7 @@ public class CalcularProduto {
         System.out.print("Insira o 1° número inteiro positivo: ");
         numeroTres = scan.nextInt();
     
+        scan.close();
         resultado = numeroUm * numeroDois * numeroTres;
         System.out.printf("O produto de três número inteiros positivos é: %s", resultado); 
     }    
